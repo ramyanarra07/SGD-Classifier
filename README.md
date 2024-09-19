@@ -64,6 +64,9 @@ print(cm)
 ```
 
 ## Output:
+## dataset
+![image](https://github.com/user-attachments/assets/959b07b9-d482-42ee-b4d0-44f434b1afcd)
+
 ## classifier's accuracy
 ![image](https://github.com/user-attachments/assets/25f7dc38-cfe8-4320-b306-d96673b8e38b)
 
